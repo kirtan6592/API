@@ -1,0 +1,10 @@
+c:\users\kirtan.chhatbar\documents\visual studio 2015\Projects\WebApplication1\EntityModel\bin\Debug\EntityModel.dll.config
+c:\users\kirtan.chhatbar\documents\visual studio 2015\Projects\WebApplication1\EntityModel\bin\Debug\EntityModel.dll
+c:\users\kirtan.chhatbar\documents\visual studio 2015\Projects\WebApplication1\EntityModel\bin\Debug\EntityModel.pdb
+c:\users\kirtan.chhatbar\documents\visual studio 2015\Projects\WebApplication1\EntityModel\bin\Debug\EntityFramework.dll
+c:\users\kirtan.chhatbar\documents\visual studio 2015\Projects\WebApplication1\EntityModel\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kirtan.chhatbar\documents\visual studio 2015\Projects\WebApplication1\EntityModel\bin\Debug\EntityFramework.xml
+c:\users\kirtan.chhatbar\documents\visual studio 2015\Projects\WebApplication1\EntityModel\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kirtan.chhatbar\documents\visual studio 2015\Projects\WebApplication1\EntityModel\obj\Debug\EntityModel.csprojResolveAssemblyReference.cache
+c:\users\kirtan.chhatbar\documents\visual studio 2015\Projects\WebApplication1\EntityModel\obj\Debug\EntityModel.dll
+c:\users\kirtan.chhatbar\documents\visual studio 2015\Projects\WebApplication1\EntityModel\obj\Debug\EntityModel.pdb
